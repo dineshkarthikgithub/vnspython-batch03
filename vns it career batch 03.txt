@@ -1,0 +1,21 @@
+#airthemetic operators
+a=int(input("enter the first value"))
+b=int(input("enter the second value "))
+print("a+b",a+b)
+print("a-b",a-b)
+print("a*b",a*b)
+print("a/b",a/b)
+print("a//b",a//b)
+print("a%b",a%b)
+
+
+#airthemetic operators add int & float
+x=int(input("enter the first the value"))
+y=float(input("enter the second value"))
+print("x+y",x+y)
+print("x-y",x-y)
+print("x*y",x*y)
+print("x/y",x/y)
+print("x//y",x//y)
+print("x%y",x%y)
+
